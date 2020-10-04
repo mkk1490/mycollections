@@ -1,0 +1,6 @@
+select p.name, sum(r.runs), r.year curr_year, 
+coalesce(lag(r.year, 1) over (partition by p.name order by r.year), r.year) prev_year
+from runs r
+join player p on r.p_id = p.p_id 
+where r.p_id = 3  
+group by p.name, r.year
