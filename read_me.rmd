@@ -1,0 +1,17 @@
+---
+title: "My collections"
+author: Kaushik Muniandi
+date: 03-10-2020
+---
+
+This repository contains the most valuable set of codes I've ever used. They range from the codes I've used for data validation to the codes which I've found to be very useful or alternatives to my usual approach.
+
+All these codes here have been researched by me and utilized over the last few years. Also, there are some codes which I've built for the sole purpose of learning.
+All these codes are ready to implement in any data engineering project unlike sample codes you'll find on the internet which are very simple and one-liners and have to be modified hugely to be implemented in any actual scenario.
+
+I've also learnt all these from the resources on the internet. To make it more usable, I've created these codes to work with input parameters and some of these I actually use in day-day life.
+
+A lot of these things have been used primarily for my learning and the entire set of codes is geared towards using the AWS tech stack. I use Spark on EMR for processing and s3 for data lake. This stack is both my official tech stack as well as my personal learning resource.
+
+This repository will be updated periodically as and when I learn and implement new things.
+
